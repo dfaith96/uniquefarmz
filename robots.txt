@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.uniquefarmz.space/sitemap.xml
+Sitemap: https://www.uniquefarmz.it.com/sitemap.xml
